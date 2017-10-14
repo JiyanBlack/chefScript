@@ -13,3 +13,4 @@ execute "copy files to apache director" do
     command "sudo cp -R /home/ubuntu/website/server/static/* /var/www/html/"
     user "ubuntu"
 end
+

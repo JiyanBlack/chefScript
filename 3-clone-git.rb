@@ -6,3 +6,4 @@ git '/home/ubuntu/website' do
   action :sync
   user 'ubuntu'
 end
+
