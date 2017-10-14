@@ -1,4 +1,4 @@
-# install apache2 package, and start the apache2
+# install apache2 package, and start the apache2 server
 
 package 'apache2'
 

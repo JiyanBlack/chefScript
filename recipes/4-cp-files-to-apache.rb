@@ -1,3 +1,5 @@
+# copy websites from git resource to apache's local file path 
+
 execute "remove contents static file director" do
     command "sudo rm -rf /var/www/html/"
     user "ubuntu"
