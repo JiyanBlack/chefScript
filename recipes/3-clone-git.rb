@@ -1,4 +1,4 @@
-# clone git repository of the website from git to local path
+# clone my website from git to local path
 
 git '/home/ubuntu/website' do
   repository 'https://github.com/JiyanBlack/cloudcomputing-group6.git'
